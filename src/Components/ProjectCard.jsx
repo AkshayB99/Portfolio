@@ -8,11 +8,11 @@ function ProjectCard({img, title, content, link}) {
             <div>
                 <a href={link} target="_blank"><img src={img} /></a>
             </div>
-            <div className="text-2xl mt-2 ml-3">
+            <div className="text-xl mt-2 ml-3">
                 <h1 className="flex">Title : &nbsp; <a href={link} target="_blank" className="text-[#ff5f09]">{title}</a></h1>
             </div>
             <div className="ml-3">
-                <p className="mt-4 text-lg">About Project : &nbsp; <p className="ml-4 mt-2 text-base">{content}</p></p>
+                <p className="mt-4 text-base">About Project : &nbsp; <p className="ml-4 mt-2 text-sm">{content}</p></p>
             </div>
         </div>
       </div>

@@ -13,7 +13,7 @@ function Skills() {
             <div className="md:mt-2 md:text-2xl">
               <p className="text-xl">Programming</p>
             </div>
-            <div className="mt-3 text-lg md:text-xl">
+            <div className="mt-3 text-lg md:text-lg">
               <li>Html</li>
               <li>Css</li>
               <li>JavaScript</li>
@@ -25,14 +25,14 @@ function Skills() {
             <div className="mt-10">
               <p className="text-xl">IDE And Tools</p>
             </div>
-            <div className="mt-3 text-lg md:text-xl">
+            <div className="mt-3 text-lg md:text-lg">
               <li>Visual Studio Code</li>
               <li>Sublime Text</li>
             </div>
             <div className="mt-10">
               <p className="text-xl">Development Tools</p>
             </div>
-            <div className="mt-3 text-lg md:text-xl">
+            <div className="mt-3 text-lg md:text-lg">
               <li>Git/Github</li>
             </div>
           </div>
