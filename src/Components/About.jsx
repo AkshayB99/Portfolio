@@ -5,14 +5,14 @@ function About() {
     <>
       <div className="h-[700px] mx-4 md:ml-40 md:mr-10">
         <div className="flex flex-col md:flex-row ">
-          <div className="mt-32 md:mx-6 md:w-[31%] flex flex-col items-center">
-            <p className="text-xl mb-6 ml-2 text-[#ff5f09]">ABOUT</p>
-            <p className="indent-14 leading-relaxed md:text-lg">
+          <div className="mt-32 md:mx-6 md:w-[35%] flex flex-col items-center">
+            <p className="text-2xl mb-6 ml-2 text-[#ff5f09]">ABOUT</p>
+            <p className="indent-14 leading-relaxed md:text-base">
               A Frontend focused Web Developer building the Frontend of Websites
               and Web Applications that leads to the success of the overall
               product
             </p>
-            <div className="md:text-base flex flex-col md:flex-row">
+            <div className="md:text-sm flex flex-col md:flex-row">
               <div className="ml-7 mt-10 flex">
                 <div className="bday flex md:mt-4 mt-2">
                   <i class="fa-regular fa-calendar-days text-[22px]"></i>
