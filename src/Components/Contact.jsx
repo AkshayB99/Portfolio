@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
   return (
     <>
-      <div className=" flex flex-col mt-[250px] md:mt-44 md:mr-24 md:ml-[250px]">
+      <div className=" flex flex-col mt-[450px] md:mt-44 md:mr-24 md:ml-[250px]">
         {/* Main content */}
         <div className="">
           {/* contact title */}
@@ -66,7 +66,7 @@ function Contact() {
         </div>
 
         {/* Bottom footer */}
-        <div className="flex justify-center  mt-[470px] md:mt-[220px] mb-3">
+        <div className="flex justify-center  mt-[370px] md:mt-[220px] mb-3">
           <p className="flex justify-center items-center">
             Developed with&nbsp;<i class="fa-solid fa-heart text-[#ff5f09]"></i>
             &nbsp;by Akshay
