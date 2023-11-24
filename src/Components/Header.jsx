@@ -14,7 +14,7 @@ function Header() {
   };
 
   const HandleAboutClick = () => {
-    window.scrollTo({ top: 760, behavior: "smooth" });
+    window.scrollTo({ top: 780, behavior: "smooth" });
   };
 
   const HandleSkillsClick = () => {
@@ -176,7 +176,7 @@ function Header() {
           </div>
         </div>
         {/* side Icon */}
-        <div className="fixed hidden h-screen items-center md:flex flex-col mt-44 text-3xl text-[#ff5f09] md:ml-16">
+        <div className="fixed hidden h-screen items-center md:flex flex-col mt-36 text-3xl text-[#ff5f09] md:ml-16">
           <a
             className={`m-4 mt-28 ${hoverEff}`}
             href="mailto:akshaybharamshetti99@gmail.com"

@@ -3,7 +3,7 @@ import React from "react";
 function Home() {
   return (
     <>
-      <div className="h-[935px] md:h-[700px] w-full mt-4 md:mt-20 ">
+      <div className="h-[935px] md:h-[700px] w-full mt-4 md:mt-16 ">
         <div className="xl:mr-60 lg:mr-32 md:mr-24 mr-4">
           <div className="flex flex-col items-end text-transparent p-0 ">
             <h1
