@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Dancing+Script:wght@700&family=Poppins:ital,wght@0,300;0,400;1,400&family=Shadows+Into+Light&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #e5e8ee;
+}
+
+.logo {
+  font-family: "Dancing Script", cursive;
+}
+
+.work-title {
+  font-family: "Comfortaa", sans-serif;
+}
+
