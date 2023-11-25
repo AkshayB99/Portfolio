@@ -33,8 +33,7 @@ function Home() {
         </div>
         <div className="flex justify-center mt-8">
           <h1 className="work-title text-xl md:text-2xl flex flex-col md:flex-row items-center">
-            Fresh Constructor, Original Programmer
-            <span className="pl-1">and Developer.</span>
+            Fresh Constructor, Original Programmer and Developer.
           </h1>
         </div>
         {/* resume Down */}
