@@ -32,7 +32,7 @@ function Home() {
           </div>
         </div>
         <div className="flex justify-center mt-8">
-          <h1 className="work-title text-xl md:text-2xl flex flex-col md:flex-row items-center">
+          <h1 className="work-title text-xl md:text-2xl flex flex-col md:flex-row items-center text-center">
             Fresh Constructor, Original Programmer and Developer.
           </h1>
         </div>
