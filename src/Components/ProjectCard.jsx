@@ -4,7 +4,7 @@ function ProjectCard({img, title, content, link}) {
   return (
     <>
       <div className="flex flex-col md:flex-row items-center md:mx-10 md:hover:scale-110 transition-all">
-        <div className="w-[384px] h-[300px] my-5 border-2">
+        <div className="w-[384px] h-[325px] md:h-[300px] my-5 border-2">
             <div>
                 <a href={link} target="_blank"><img src={img} /></a>
             </div>

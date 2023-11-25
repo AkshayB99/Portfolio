@@ -20,7 +20,7 @@ function Projects() {
   return (
     <div className="mt-[750px] h-screen md:mt-48 md:mr-24 md:ml-[155px]">
       {/* heading */}
-      <div className="flex justify-center text-2xl md:text-3xl text-[#ff5f09]">
+      <div className="flex justify-center text-[22px] md:text-3xl text-[#ff5f09]">
         <div>PROJECTS</div>
       </div>
       {/* add projects */}
