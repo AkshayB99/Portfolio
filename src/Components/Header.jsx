@@ -118,7 +118,7 @@ function Header() {
                 </a>
                 <a
                   className="m-2  hover:scale-110 transition-all"
-                  href="https://drive.google.com/file/d/1KXLjQ2hUrlKi7W6wvk8XyecJL72XnRfi/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1O_Ml_mu9bNAf1rHdLPYz4lKtI1v9OgYR/view?usp=sharing"
                   target="_blank"
                 >
                   <i className="fa-solid fa-circle-arrow-down"></i>
@@ -199,7 +199,7 @@ function Header() {
           </a>
           <a
             className={`m-4 mt-[304px] ${hoverEff}`}
-            href="https://drive.google.com/file/d/1KXLjQ2hUrlKi7W6wvk8XyecJL72XnRfi/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1O_Ml_mu9bNAf1rHdLPYz4lKtI1v9OgYR/view?usp=sharing"
             target="_blank"
           >
             <i className="fa-solid fa-circle-arrow-down"></i>

@@ -54,7 +54,7 @@ function Contact() {
               </div>
               <div className="flex flex-col ml-3">
                 <a
-                  href="https://drive.google.com/file/d/1KXLjQ2hUrlKi7W6wvk8XyecJL72XnRfi/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1O_Ml_mu9bNAf1rHdLPYz4lKtI1v9OgYR/view?usp=sharing"
                   target="_blank"
                   className="md:text-[16px] text-[20px]"
                 >
