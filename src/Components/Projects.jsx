@@ -18,7 +18,7 @@ function Projects() {
   const CalculatorLink = "https://akshayb99.github.io/Micro-project-4/";
 
   return (
-    <div className="mt-[750px] h-screen md:mt-48 md:mr-24 md:ml-[155px]">
+    <div className="mt-[850px] h-screen md:mt-48 md:mr-24 md:ml-[155px]">
       {/* heading */}
       <div className="flex justify-center text-[22px] md:text-3xl text-[#ff5f09]">
         <div>PROJECTS</div>

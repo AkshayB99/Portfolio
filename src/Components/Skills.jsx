@@ -4,7 +4,7 @@ import Udemy from '../assets/udemy-Certi.jpg'
 function Skills() {
   return (
     <>
-      <div className="h-[700px] mt-[900px] md:mt-[100px]  mx-4 md:ml-40 md:mr-10">
+      <div className="h-[700px] mt-[600px] md:mt-[100px]  mx-4 md:ml-40 md:mr-10">
         <div className="flex flex-col md:flex-row md:justify-between md:mx-8 md:mt-32">
           <div className="left  md:w-[40%] h-52 mx-5 md:ml-20">
             <div className="flex justify-center">

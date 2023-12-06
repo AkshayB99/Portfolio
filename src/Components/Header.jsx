@@ -34,11 +34,11 @@ function Header() {
   };
 
   const HandleSkillsMobClick = () => {
-    window.scrollTo({ top: 2400, behavior: "smooth" });
+    window.scrollTo({ top: 2250, behavior: "smooth" });
   };
 
   const HandleProjectMobClick = () => {
-    window.scrollTo({ top: 3850, behavior: "smooth" });
+    window.scrollTo({ top: 3750, behavior: "smooth" });
   };
 
   const HandleContactMobClick = () => {
