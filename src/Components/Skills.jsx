@@ -49,14 +49,14 @@ function Skills() {
                   alt=""
                 />
               </div>
-              <div className="flex justify-center">
+              <div className="flex md:justify-center">
                 <img
                   src={`${Udemy}`}
                   className="mt-4 w-[300px] md:w-[230px] md:-mt-4"
                   alt=""
                 />
               </div>
-              <div className="flex justify-end">
+              <div className="flex md:justify-end">
                 <img
                   src={`${Udemy}`}
                   className="mt-4 w-[300px] md:w-[230px] md:-mt-4"

@@ -3,9 +3,9 @@ import React from "react";
 function Home() {
   return (
     <>
-      <div className="h-[935px] md:h-[700px] w-full mt-4 md:mt-12 ">
+      <div className="h-[935px] md:h-[700px] w-full mt-20 md:mt-12 ">
         <div className="xl:mr-60 lg:mr-32 md:mr-24 mr-4">
-          <div className="flex flex-col items-end text-transparent p-0 ">
+          <div className="flex flex-col items-center md:items-end text-transparent p-0 ">
             <h1
               className="logo text-[75px] mt-32 md:text-[110px] md:mt-34"
               style={{
@@ -25,7 +25,7 @@ function Home() {
               Bharamshetti
             </h1>
           </div>
-          <div className="text-white md:text-center lg:text-right lg:mr-32">
+          <div className="text-white text-center lg:text-right lg:mr-32">
             <h1 className="work-title text-3xl mt-5 ml-4">
               Front-<span className="text-[#ff5f09]">End</span> Developer
             </h1>

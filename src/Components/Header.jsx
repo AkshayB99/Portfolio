@@ -30,15 +30,15 @@ function Header() {
   };
 
   const HandleAboutMobClick = () => {
-    window.scrollTo({ top: 1010, behavior: "smooth" });
+    window.scrollTo({ top: 950, behavior: "smooth" });
   };
 
   const HandleSkillsMobClick = () => {
-    window.scrollTo({ top: 2450, behavior: "smooth" });
+    window.scrollTo({ top: 2400, behavior: "smooth" });
   };
 
   const HandleProjectMobClick = () => {
-    window.scrollTo({ top: 3910, behavior: "smooth" });
+    window.scrollTo({ top: 3850, behavior: "smooth" });
   };
 
   const HandleContactMobClick = () => {

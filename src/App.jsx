@@ -14,10 +14,10 @@ function App() {
   return (
     <>
       <section
-        className="flex flex-col bg-fixed bg-cover"
-        style={{
-          backgroundImage: `url(${Image})`,
-        }}
+        className="flex flex-col bg-fixed bg-cover bg-[#000]"
+        // style={{
+        //   backgroundImage: `url(${Image})`,
+        // }}
       >
         <Header />
         {/* Home */}
