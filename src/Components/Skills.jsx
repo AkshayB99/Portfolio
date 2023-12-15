@@ -1,5 +1,7 @@
 import React from "react";
 import Udemy from '../assets/udemy-Certi.jpg'
+import javascript from '../assets/Javascript-HackerRank.png'
+import reactImg from '../assets/React-HackerRank.png'
 
 function Skills() {
   return (
@@ -51,14 +53,14 @@ function Skills() {
               </div>
               <div className="flex md:justify-center">
                 <img
-                  src={`${Udemy}`}
+                  src={`${javascript}`}
                   className="mt-4 w-[300px] md:w-[230px] md:-mt-4"
                   alt=""
                 />
               </div>
               <div className="flex md:justify-end">
                 <img
-                  src={`${Udemy}`}
+                  src={`${reactImg}`}
                   className="mt-4 w-[300px] md:w-[230px] md:-mt-4"
                   alt=""
                 />
