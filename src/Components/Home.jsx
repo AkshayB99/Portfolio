@@ -40,7 +40,7 @@ function Home() {
         <div className="flex justify-center mt-32 md:hidden">
           <a
             className="border-2 border-[#ff5f09] w-40 h-10 rounded-full flex justify-center items-center hover:bg-[#ff5f09] hover:scale-125 hover:outline-none transition-all"
-            href="https://drive.google.com/file/d/1O_Ml_mu9bNAf1rHdLPYz4lKtI1v9OgYR/view?usp=sharing"
+            href="https://drive.google.com/file/d/1MeMdFf-lSOWUEAp-JCvdPTjP6dvekJ80/view?usp=drive_link"
             target="_blank"
           >
             <p>
