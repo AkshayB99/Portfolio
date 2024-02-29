@@ -13,28 +13,40 @@ function Skills() {
               <p className="text-[#ff5f09] text-2xl">SKILLS</p>
             </div>
             <div className="md:mt-2 md:text-2xl">
-              <p className="text-xl">Programming</p>
+              <p className="text-xl">Front End</p>
             </div>
-            <div className="mt-3 text-lg md:text-lg">
+            <div className="mt-0 text-lg md:text-md">
               <li>Html</li>
               <li>Css</li>
               <li>JavaScript</li>
               <li>ReactJs</li>
-              <li>Redux</li>
               <li>Tailwind Css</li>
-              <li>Material UI</li>
             </div>
-            <div className="mt-10">
+            <div className="md:mt-2 md:text-2xl">
+              <p className="text-xl">Back End</p>
+            </div>
+            <div className="mt-1 text-lg md:text-md">
+              <li>Node Js</li>
+              <li>Express</li>
+              <li>socket io</li>
+            </div>
+            <div className="md:mt-2 md:text-2xl">
+              <p className="text-xl">Database</p>
+            </div>
+            <div className="mt-1 text-lg md:text-md">
+              <li>MongoDb</li>
+            </div>
+            <div className="mt-5">
               <p className="text-xl">IDE And Tools</p>
             </div>
-            <div className="mt-3 text-lg md:text-lg">
+            <div className="mt-1 text-lg md:text-md">
               <li>Visual Studio Code</li>
               <li>Sublime Text</li>
             </div>
-            <div className="mt-10">
+            <div className="mt-5">
               <p className="text-xl">Development Tools</p>
             </div>
-            <div className="mt-3 text-lg md:text-lg">
+            <div className="mt-1 text-lg md:text-md">
               <li>Git/Github</li>
             </div>
           </div>

@@ -3,14 +3,17 @@ import React from "react";
 function About() {
   return (
     <>
-      <div className="h-[700px] mx-4 md:ml-40 md:mr-10">
+      <div className="h-[800px] md:h-[700px] mx-4 md:ml-40 md:mr-10">
         <div className="flex flex-col md:flex-row ">
           <div className="mt-22 md:mt-32 md:mx-6 md:w-[35%] flex flex-col items-center">
             <p className="text-2xl mb-6 ml-2 text-[#ff5f09]">ABOUT</p>
-            <p className="indent-14 leading-relaxed md:text-base">
-              A Frontend focused Web Developer building the Frontend of Websites
-              and Web Applications that leads to the success of the overall
-              product
+            <p className="indent-14 leading-relaxed md:text-base text-justify">
+              As a MERN stack developer specializing in Fullstack development, I
+              focus on crafting dynamic and responsive user interfaces for
+              websites and web applications. By integrating MongoDB, Express.js,
+              React.js, and Node.js, I create engaging frontend components that
+              seamlessly interact with backend systems, driving the success of
+              the overall product.
             </p>
             <div className="md:text-sm flex flex-col md:flex-row">
               <div className="ml-7 mt-10 flex">

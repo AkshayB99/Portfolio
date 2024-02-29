@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
   return (
     <>
-      <div className=" flex flex-col mt-[850px] md:mt-44 md:mr-24 md:ml-[250px]">
+      <div className=" flex flex-col mt-[1250px] md:mt-44 md:mr-24 md:ml-[250px]">
         {/* Main content */}
         <div className="">
           {/* contact title */}
@@ -54,7 +54,7 @@ function Contact() {
               </div>
               <div className="flex flex-col ml-3">
                 <a
-                  href="https://drive.google.com/file/d/1MeMdFf-lSOWUEAp-JCvdPTjP6dvekJ80/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1o19oizckIZ79c4mSUAXOaH2IdyPdUDAK/view?usp=drive_link"
                   target="_blank"
                   className="md:text-[16px] text-[20px]"
                 >

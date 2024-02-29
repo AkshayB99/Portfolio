@@ -2,24 +2,33 @@ import React from "react";
 import ProjectCard from "./ProjectCard";
 import LandingPage from "../assets/Landing-Page.png";
 import TicTacToe from "../assets/Tic-Tac-Toe.png";
-import RockPaperScissors from '../assets/Rock-Paper-Scissors.png'
-import Calculator from '../assets/Calculator.png'
+import RockPaperScissors from "../assets/Rock-Paper-Scissors.png";
+import Calculator from "../assets/Calculator.png";
+import ProManage from "../assets/Pro-Manage.png"
 
 function Projects() {
+  const ProManageTitle = `Pro-Manage`;
+  const ProManageContent =
+    "MERN Stack project to Creation, editing, deletion of day today tasks";
+  const ProManageLink = "https://pro-manage-aib99.netlify.app/";
+
   const LandingPageTitle = `Landing Page`;
-  const LandingPageContent = "This is the landing page in which I used Tailwind css";
+  const LandingPageContent =
+    "This is the landing page in which I used Tailwind css";
   const LandingPageLink = "https://landing-page-akshayb.netlify.app/";
 
   const TicTacToeTitle = `TicTacToc`;
   const TicTacToeContent = "This is the game in which user play with Computer";
   const TicTacToeLink = "https://tic-tac-toe-ak18.netlify.app/";
-  
+
   const RockPaperScissorsTitle = `RockPaperScissors`;
-  const RockPaperScissorsContent = "This is the game in which user play with Computer";
+  const RockPaperScissorsContent =
+    "This is the game in which user play with Computer";
   const RockPaperScissorsLink = "https://rock-paper-scissor-ab.netlify.app/";
-  
+
   const CalculatorTitle = `Calculator`;
-  const CalculatorContent = "This is the Calculator using HTML, CSS and JavaScript";
+  const CalculatorContent =
+    "This is the Calculator using HTML, CSS and JavaScript";
   const CalculatorLink = "https://akshayb99.github.io/Micro-project-4/";
 
   return (
@@ -31,6 +40,12 @@ function Projects() {
       {/* add projects */}
       <div className="flex justify-center items-center md:mt-5">
         <div className=" md:grid md:grid-cols-3 ">
+          <ProjectCard
+            img={ProManage}
+            title={ProManageTitle}
+            content={ProManageContent}
+            link={ProManageLink}
+          />
           <ProjectCard
             img={LandingPage}
             title={LandingPageTitle}
@@ -45,7 +60,7 @@ function Projects() {
           />
           <ProjectCard
             img={RockPaperScissors}
-            title={RockPaperScissorsTitle }
+            title={RockPaperScissorsTitle}
             content={RockPaperScissorsContent}
             link={RockPaperScissorsLink}
           />

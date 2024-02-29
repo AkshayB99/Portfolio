@@ -27,7 +27,7 @@ function Home() {
           </div>
           <div className="text-white text-center lg:text-right lg:mr-32">
             <h1 className="work-title text-3xl mt-5 ml-4">
-              Front-<span className="text-[#ff5f09]">End</span> Developer
+              Full-<span className="text-[#ff5f09]">Stack</span> Developer
             </h1>
           </div>
         </div>

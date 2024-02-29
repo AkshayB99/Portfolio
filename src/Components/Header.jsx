@@ -34,11 +34,11 @@ function Header() {
   };
 
   const HandleSkillsMobClick = () => {
-    window.scrollTo({ top: 2250, behavior: "smooth" });
+    window.scrollTo({ top: 2330, behavior: "smooth" });
   };
 
   const HandleProjectMobClick = () => {
-    window.scrollTo({ top: 3750, behavior: "smooth" });
+    window.scrollTo({ top: 3880, behavior: "smooth" });
   };
 
   const HandleContactMobClick = () => {
@@ -118,7 +118,7 @@ function Header() {
                 </a>
                 <a
                   className="m-2  hover:scale-110 transition-all"
-                  href="https://drive.google.com/file/d/1MeMdFf-lSOWUEAp-JCvdPTjP6dvekJ80/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1o19oizckIZ79c4mSUAXOaH2IdyPdUDAK/view?usp=drive_link"
                   target="_blank"
                 >
                   <i className="fa-solid fa-circle-arrow-down"></i>
@@ -199,7 +199,7 @@ function Header() {
           </a>
           <a
             className={`m-4 mt-[304px] ${hoverEff}`}
-            href="https://drive.google.com/file/d/1MeMdFf-lSOWUEAp-JCvdPTjP6dvekJ80/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1o19oizckIZ79c4mSUAXOaH2IdyPdUDAK/view?usp=drive_link"
             target="_blank"
           >
             <i className="fa-solid fa-circle-arrow-down"></i>
